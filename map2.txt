@@ -1,0 +1,4 @@
+|||LeaveForbiddenForest|
+||Passage|VoldemortRoom|
+||Passage||
+||ReaperRoom|NaginiRoom|

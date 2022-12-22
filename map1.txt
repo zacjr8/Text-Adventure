@@ -1,0 +1,5 @@
+|||LeaveHogwarts|
+||Corridor|GiantSpiderRoom|
+||Corridor||
+||WolfRoom||
+GiantSpiderRoom|SmallPotionRoom|EnterHogwarts|Corridor|FindSwordRoom
